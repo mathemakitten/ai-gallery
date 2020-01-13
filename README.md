@@ -1,4 +1,4 @@
-AI Gallery 
+# AI Gallery 
 
 *an art project* 
 
